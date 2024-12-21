@@ -1,0 +1,25 @@
+.image-container-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Adds space between label/input */
+    padding: 10px;
+    background-color: #4f5f81; /* Set background color to see the box */
+    border-radius: 15px; /* Rounded corners for each input box */
+    min-height: 50px; /* Ensure the boxes have a minimum height */
+    height: auto;
+    padding-bottom: 20px;
+}
+
+.image-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    width:  650px;
+    height: 900px;
+}
