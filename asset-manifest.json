@@ -1,14 +1,20 @@
 {
   "files": {
     "main.css": "/projectkcardgenerator/static/css/main.f49aacb1.css",
-    "main.js": "/projectkcardgenerator/static/js/main.e6ed425f.js",
+    "main.js": "/projectkcardgenerator/static/js/main.be939157.js",
     "static/js/488.e00083e7.chunk.js": "/projectkcardgenerator/static/js/488.e00083e7.chunk.js",
+    "static/media/Physical.png": "/projectkcardgenerator/static/media/Physical.18cede49f4b6f06bf379.png",
+    "static/media/Fury.png": "/projectkcardgenerator/static/media/Fury.1528688c080990939b35.png",
+    "static/media/Chaos.png": "/projectkcardgenerator/static/media/Chaos.961cfd70dd88d6258a06.png",
+    "static/media/Calm.png": "/projectkcardgenerator/static/media/Calm.2e154cb872d52f0ffffc.png",
+    "static/media/Mind.png": "/projectkcardgenerator/static/media/Mind.50d1fe84afd98129ea68.png",
     "static/media/Chaos_white.png": "/projectkcardgenerator/static/media/Chaos_white.21847e9639f145904398.png",
+    "static/media/Order.png": "/projectkcardgenerator/static/media/Order.d121ef69bc246e044ab6.png",
     "static/media/Calm_white.png": "/projectkcardgenerator/static/media/Calm_white.dbd5206286cffa909eec.png",
-    "static/media/ChampionFrame.png": "/projectkcardgenerator/static/media/ChampionFrame.236ec8a4e31287a2c5be.png",
-    "static/media/SpellFrame.png": "/projectkcardgenerator/static/media/SpellFrame.656dece09858950367b4.png",
-    "static/media/GearFrame.png": "/projectkcardgenerator/static/media/GearFrame.047cef793c7537a31b8f.png",
-    "static/media/UnitFrame.png": "/projectkcardgenerator/static/media/UnitFrame.4735c1462ef73558179b.png",
+    "static/media/Champion Frame Grey.png": "/projectkcardgenerator/static/media/Champion Frame Grey.923ce619cb8d6d37c001.png",
+    "static/media/Unit Frame Grey.png": "/projectkcardgenerator/static/media/Unit Frame Grey.84e48e90908e8980e5e9.png",
+    "static/media/Gear Frame Grey.png": "/projectkcardgenerator/static/media/Gear Frame Grey.247fd54b1d08bfd23d96.png",
+    "static/media/Spell Frame Grey.png": "/projectkcardgenerator/static/media/Spell Frame Grey.dd175c4ac141145f1c20.png",
     "static/media/GearFramePrimary.png": "/projectkcardgenerator/static/media/GearFramePrimary.e26906784b330da2f7c6.png",
     "static/media/Physical_white.png": "/projectkcardgenerator/static/media/Physical_white.53316322ad99cfe84eaa.png",
     "static/media/white.png": "/projectkcardgenerator/static/media/white.58d0c2a1f31ae57ef23d.png",
@@ -22,11 +28,11 @@
     "static/media/Order_white.png": "/projectkcardgenerator/static/media/Order_white.d3144587d63a18ac4b1f.png",
     "index.html": "/projectkcardgenerator/index.html",
     "main.f49aacb1.css.map": "/projectkcardgenerator/static/css/main.f49aacb1.css.map",
-    "main.e6ed425f.js.map": "/projectkcardgenerator/static/js/main.e6ed425f.js.map",
+    "main.be939157.js.map": "/projectkcardgenerator/static/js/main.be939157.js.map",
     "488.e00083e7.chunk.js.map": "/projectkcardgenerator/static/js/488.e00083e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f49aacb1.css",
-    "static/js/main.e6ed425f.js"
+    "static/js/main.be939157.js"
   ]
 }
