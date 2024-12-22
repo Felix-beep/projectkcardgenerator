@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectkcardgenerator/static/css/main.f49aacb1.css",
-    "main.js": "/projectkcardgenerator/static/js/main.c4e0045c.js",
+    "main.js": "/projectkcardgenerator/static/js/main.40da2c7c.js",
     "static/js/488.e00083e7.chunk.js": "/projectkcardgenerator/static/js/488.e00083e7.chunk.js",
     "static/media/Physical.png": "/projectkcardgenerator/static/media/Physical.18cede49f4b6f06bf379.png",
     "static/media/Fury.png": "/projectkcardgenerator/static/media/Fury.1528688c080990939b35.png",
@@ -21,18 +21,18 @@
     "static/media/Any.png": "/projectkcardgenerator/static/media/Any.de3db7e48c95b5d6ab5a.png",
     "static/media/Fury_white.png": "/projectkcardgenerator/static/media/Fury_white.ffd17e6c0e98b3bc4aeb.png",
     "static/media/Might Symbol.png": "/projectkcardgenerator/static/media/Might Symbol.8b8620b9d68e4b6aeecd.png",
-    "static/media/3.png": "/projectkcardgenerator/static/media/3.86e6503843ed585a2a9f.png",
-    "static/media/2.png": "/projectkcardgenerator/static/media/2.920167cf27a21426cd06.png",
-    "static/media/1.png": "/projectkcardgenerator/static/media/1.c94754521f24d7935543.png",
+    "static/media/3Grey.png": "/projectkcardgenerator/static/media/3Grey.ca068952aa358d3019d4.png",
     "static/media/Mind_white.png": "/projectkcardgenerator/static/media/Mind_white.58d47b631f358fa968e8.png",
     "static/media/Order_white.png": "/projectkcardgenerator/static/media/Order_white.d3144587d63a18ac4b1f.png",
+    "static/media/2Grey.png": "/projectkcardgenerator/static/media/2Grey.cdfa30a16593e98f3235.png",
+    "static/media/1Grey.png": "/projectkcardgenerator/static/media/1Grey.736b2cebc3f9931b52a9.png",
     "index.html": "/projectkcardgenerator/index.html",
     "main.f49aacb1.css.map": "/projectkcardgenerator/static/css/main.f49aacb1.css.map",
-    "main.c4e0045c.js.map": "/projectkcardgenerator/static/js/main.c4e0045c.js.map",
+    "main.40da2c7c.js.map": "/projectkcardgenerator/static/js/main.40da2c7c.js.map",
     "488.e00083e7.chunk.js.map": "/projectkcardgenerator/static/js/488.e00083e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f49aacb1.css",
-    "static/js/main.c4e0045c.js"
+    "static/js/main.40da2c7c.js"
   ]
 }
